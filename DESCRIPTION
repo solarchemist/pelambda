@@ -1,0 +1,14 @@
+Package: pelambda
+Type: Package
+Title: Import PerkinElmer Spectrum (SP) Files
+Version: 0.1.0.9000
+Author: Taha Ahmed
+Maintainer: Taha Ahmed <taha@chepec.se>
+Description: Import PerkinElmer spectrum (ASCII) files.
+License: GPL-3 + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+   common,
+   lubridate
+RoxygenNote: 7.2.1
